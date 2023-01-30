@@ -1,0 +1,30 @@
+Author
+Name Single line text required title
+Photo Asset Two-way reference
+Bio Multi line text
+
+Category
+Name Single line text required unique title
+Slug Slug Required Unique
+
+Comment
+Name Single line text required title
+Email Single line text required
+Comments Multi line text required
+
+Post
+Title Single line text required
+Slug Slug required unique
+Excerpt Multi line text required
+Content RichText required
+Featured Image Asset Two-way reference Required
+Featured Post Boolean required
+Author Author Two-way reference
+Categories Categories Multiple Values Two-way reference
+
+Author:
+Sardor img Full-Stack Javascript Developer, Owner of FDevs 
+Category:
+Praktikum praktikum
+Post:
+MERN Stack mern "A-Z gacha bo'lgan JavaScript texnologiyalarini o'rganamiz, MERN - MongoDB, Express, React, Nodejs. JavaScript texnologiyalari bilan xoxlagan joyda xoxlagan ko'rinishda ishlash imkoniyati." "content" img true Sardor Praktikum
