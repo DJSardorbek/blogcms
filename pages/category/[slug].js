@@ -1,5 +1,5 @@
 import {getCategories, getCategoryPost, getPosts} from "@/services";
-import {Categories, Loader, PostCard} from "@/Components";
+import {Categories, Loader, PostCard} from "@/components";
 import {useRouter} from "next/router";
 
 export default function Category ({posts}) {

@@ -6,8 +6,23 @@
   <component name="ChangeListManager">
     <list default="true" id="87e58009-16d7-40a3-952b-807f321085be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Author.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Author.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Categories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Categories.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Comments.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Comments.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/CommentsForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CommentsForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/FeaturedPostCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/FeaturedPostCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Loader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Loader.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/PostCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PostCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/PostDetail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PostDetail.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/PostWidget.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PostWidget.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/category/[slug].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/category/[slug].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/post/[slug].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/post/[slug].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/FeaturedPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sections/FeaturedPosts.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +77,7 @@
       <workItem from="1675074574437" duration="5149000" />
       <workItem from="1675092570576" duration="22659000" />
       <workItem from="1675147341584" duration="748000" />
-      <workItem from="1675148133688" duration="1230000" />
+      <workItem from="1675148133688" duration="1660000" />
     </task>
     <servers />
   </component>

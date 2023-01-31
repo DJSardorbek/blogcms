@@ -1,5 +1,5 @@
 import React from 'react';
-import {Header} from "@/Components/index";
+import {Header} from "@/components/index";
 import FeaturedPosts from "@/sections/FeaturedPosts";
 
 function Layout({children}) {

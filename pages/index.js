@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import {Categories, PostCard, PostWidget} from "@/Components";
+import {Categories, PostCard, PostWidget} from "@/components";
 import {getPosts} from "@/services";
 import React from "react";
 

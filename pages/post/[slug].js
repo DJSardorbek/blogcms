@@ -1,4 +1,4 @@
-import {Author, Categories, Comments, CommentsForm, Loader, PostDetail, PostWidget} from "@/Components";
+import {Author, Categories, Comments, CommentsForm, Loader, PostDetail, PostWidget} from "@/components";
 import {getPostDetails, getPosts} from "@/services";
 import {useRouter} from "next/router";
 

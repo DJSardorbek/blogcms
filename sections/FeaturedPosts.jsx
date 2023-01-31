@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css"
 import {getFeaturedPosts} from "@/services";
-import {FeaturedPostCard} from "@/Components";
+import {FeaturedPostCard} from "@/components";
 
 const responsive = {
     superLargeDesktop: {
